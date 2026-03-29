@@ -6,4 +6,4 @@ You shoot others 😏
 
 
 
-Play at cubeshooters.com
+[Play CubeShooter](https://cubeshooters.com)
